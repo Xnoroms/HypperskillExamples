@@ -1,0 +1,10 @@
+Read an input text from the console and print its characters in reversed order.
+
+Use Reader for collecting characters.
+
+Sample Input 1:
+
+abc
+Sample Output 1:
+
+cba

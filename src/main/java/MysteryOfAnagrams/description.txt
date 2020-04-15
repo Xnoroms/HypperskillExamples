@@ -1,0 +1,19 @@
+In this problem, you are Sherlock Holmes and you want to quickly detect all anagrams.
+
+Write a program that finds out whether two words are anagrams or not. If one word is an anagram of another, print "yes", else print "no".
+
+Note: anagrams are words that contain the same characters with the same frequencies. In other words, anagrams are created by changing the order of letters in the word.
+
+For example:
+
+"ppaaagg" (p - 2; a - 3; g - 2) and "gagaapp" (p - 2; a - 3; g - 2) are anagrams;
+"hello" (h - 1; e - 1; l - 2; o - 1) and "helllo" (h - 1; e - 1; l - 3; o - 1) are not anagrams.
+Remember: anagrams are case-insensitive.
+
+Sample Input 1:
+
+ppaaagg
+gagaapp
+Sample Output 1:
+
+yes
