@@ -1,0 +1,3 @@
+Implement a method to concatenate all positive numbers of two input ArrayLists to a single resulting list.
+
+At first, elements from the first ArrayList should go, and then the elements from the second ArrayList.
