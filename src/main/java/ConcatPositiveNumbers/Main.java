@@ -9,23 +9,14 @@ class ConcatPositiveNumbersProblem {
 
     public static ArrayList<Integer> concatPositiveNumbers(ArrayList<Integer> l1, ArrayList<Integer> l2) {
 
-        ArrayList<Integer> result = new ArrayList<Integer>();
 
-        for (Integer a:l1
-        ) {
-            if (a>0){
-                result.add(a);
+        for (Integer numbers : l2) {
+            if (numbers > 0) {
+                l1.add(numbers);
             }
-
         }
-        for (Integer a:l2
-        ) {
-            if (a>0){
-                result.add(a);
-            }
 
-        }
-        return result;
+        return l1;
     }
 
     public static void main(String[] args) {
