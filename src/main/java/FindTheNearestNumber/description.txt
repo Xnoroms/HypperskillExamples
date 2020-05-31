@@ -1,0 +1,5 @@
+Write a program that finds out the closest integer to a given one from an array. If you find several integers with the same distance to the N, you should output all of them in the ascending order. If the are several equal numbers, output them all.
+
+Input: a set of integers and a number N.
+
+Output: some number(s) from the given array.
